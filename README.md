@@ -17,7 +17,7 @@ This is the user interface of a fully-featured interactive calculator, built usi
 - CSS
 
 ## Screenshot
-![Calculator UI](Screenshot.png)
+![Calculator UI](Screenshot-2025-12-21-162152.png)
 
 ## Next Steps
 - Add JavaScript to handle calculations and interactivity
